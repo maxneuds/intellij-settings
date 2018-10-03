@@ -1,1 +1,3 @@
-# intellij-settings
+# requirements
+
+Fire Code Font
