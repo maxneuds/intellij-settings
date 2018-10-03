@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="%appdata%\Local\cmder\Cmder.exe" />
+    <option name="mySoundBell" value="false" />
+  </component>
+</application>
